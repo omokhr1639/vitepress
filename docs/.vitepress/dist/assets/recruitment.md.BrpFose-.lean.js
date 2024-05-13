@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a2 as r}from"./chunks/framework.Bb_ETN4K.js";const u=JSON.parse('{"title":"採用ページ⛄","description":"","frontmatter":{},"headers":[],"relativePath":"recruitment.md","filePath":"recruitment.md"}'),d={name:"recruitment.md"},n=r("",3),o=[n];function _(c,s,i,l,m,h){return a(),e("div",null,o)}const f=t(d,[["render",_]]);export{u as __pageData,f as default};
